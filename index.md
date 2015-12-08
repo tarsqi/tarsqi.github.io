@@ -1,3 +1,3 @@
 ### Homepage
 
-blah blah
+blah blah.
